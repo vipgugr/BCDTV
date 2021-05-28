@@ -19,5 +19,7 @@ In digital histopathological image analysis, two conflicting objectives are ofte
   publisher={Elsevier}\
 }
 
-
+## Related work
+If you are interested in blind color deconvolution you might be interested in our works:
+- Fully Automatic Blind Color Deconvolution of Histological Images Using Super Gaussians. 2020 28th European Signal Processing Conference (EUSIPCO).
 
